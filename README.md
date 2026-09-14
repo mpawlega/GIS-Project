@@ -3,6 +3,6 @@ Remote sensing data workflow and visualization using Environment Canada satellit
 
 
 ## Data Citation
-Dataset: [Dataset Link](https://portal.opentopography.org/result?id=rt1789275687841)  
-Dataset Citation: Natural Resources Canada (2025).  Medium Resolution Digital Elevation Model of Canada.  Distributed by OpenTopography. https://doi.org/10.5069/G9N8780J. Accessed 2026-09-13  
-Use License: Open Government Licence - Canada
+**Dataset**: [Dataset Link](https://portal.opentopography.org/result?id=rt1789275687841)  
+**Dataset Citation**: Natural Resources Canada (2025).  Medium Resolution Digital Elevation Model of Canada.  Distributed by OpenTopography. https://doi.org/10.5069/G9N8780J. Accessed 2026-09-13  
+**Use License**: Open Government Licence - Canada
